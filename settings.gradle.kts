@@ -1,0 +1,1 @@
+rootProject.name = "ktor.sportsapi.sports-api-ktor"
